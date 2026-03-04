@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irah02
--I'm presently a B.Tech student in VIT Chennai
-- 👀 I’m interested in custom ROMs,Distros and ML
+-I'm presently a masters student in Uni Bonn
+- 👀 I’m interested in linux and ML
 - 🌱 I’m currently learning big data 
 - 💞️ I’m looking to collaborate on ML,AI and Custom ROMs
 - 📫 How to reach me blindwind02@gmail.com
